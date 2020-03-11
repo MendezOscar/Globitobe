@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1dd98a49-c1ee-42e0-bc7a-a097dd619e54/resourceGroups/GlobitoBE/providers/Microsoft.Web/sites/Globitobe",
+    "appService.deploySubpath": "publish"
+}
